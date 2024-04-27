@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/kashlift.iml" filepath="$PROJECT_DIR$/.idea/kashlift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kashlift/kashlift.iml" filepath="$PROJECT_DIR$/kashlift/kashlift.iml" />
     </modules>
   </component>
 </project>
